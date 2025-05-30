@@ -8,7 +8,11 @@ npm install
 ## ✅ Step 2: Run the Frontend
 npm run dev
 
-
+    This version is just frontend (no backend/admin),
+    
+    Still fully functional and looks good,
+    
+    But if someone wants the full version with backend + admin, they can follow the link.
 
 ## 🔗 For the full version with backend and admin dashboard, visit:
 
