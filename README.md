@@ -9,7 +9,7 @@ npm install
 ```
 npm run dev
 ```
-
+## About
     This version is just frontend (no backend/admin),
     
     Still fully functional and looks good,
