@@ -6,7 +6,9 @@ Follow the steps below to set up and run the project:
 npm install
 ```
 ## ✅ Step 2: Run the Frontend
+```
 npm run dev
+```
 
     This version is just frontend (no backend/admin),
     
