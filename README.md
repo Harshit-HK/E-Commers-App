@@ -18,7 +18,7 @@ npm run dev
 
 ## 🔗 For the full version with backend and admin dashboard, visit:
 
-👉 [Full-Stack E-Commerce App with Admin Panel](https://github.com/Harshit-HK/E-Commerce-Web-App) 
+👉 [Full-Stack E-Commerce App with Admin Panel](https://github.com/Harshit-HK/E-Commerce-Web-Applicatio/tree/main) 
 
 | Feature              | This Repo | Full-Stack Version |
 | -------------------- | --------- | ------------------ |
